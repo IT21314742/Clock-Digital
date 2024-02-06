@@ -4,4 +4,4 @@ let sec = document.getElementById("sec");
 
 setInterval(() => {
     
-}, interval);
+}, 1000);
