@@ -1,1 +1,1 @@
-let hrs = document
+let hrs = document.getElementById
