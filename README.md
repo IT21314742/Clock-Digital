@@ -13,4 +13,4 @@ How to Use:
 **Embed** the provided HTML and JavaScript code snippets into your web application.
 _Customize_ styles and settings to seamlessly integrate the digital clock into your project.
 
-_Enhance your web applications with this Working Digital Clock. Explore, contribute, and leverage this project to effortlessly incorporate a timekeeping feature into your user interface_❤
+**Enhance your web applications with this Working Digital Clock. Explore, contribute, and leverage this project to effortlessly incorporate a timekeeping feature into your user interface**❤
