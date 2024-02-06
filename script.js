@@ -1,1 +1,1 @@
-let hrs = document.getElementById("hrs")
+let hrs = document.getElementById("hrs");
