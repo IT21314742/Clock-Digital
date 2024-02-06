@@ -1,2 +1,2 @@
 let hrs = document.getElementById("hrs");
-let min = document
+let min = document.getElementById
