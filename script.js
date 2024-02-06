@@ -3,6 +3,6 @@ let min = document.getElementById("min");
 let sec = document.getElementById("sec");
 
 setInterval(() => {
-    let 
+    let currentTime
     
 }, 1000);
