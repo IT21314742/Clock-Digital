@@ -6,5 +6,6 @@ setInterval(() => {
     let currentTime = new Date();   
 
     hrs.innerHTML = (currentTime.getHours()<10?"0":"") + currentTime.getHours();
+    min
     
 }, 1000);
