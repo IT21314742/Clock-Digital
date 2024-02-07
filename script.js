@@ -5,6 +5,6 @@ let sec = document.getElementById("sec");
 setInterval(() => {
     let currentTime = new Date();   
 
-    
+    hrs
     
 }, 1000);
