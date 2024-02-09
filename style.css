@@ -31,5 +31,5 @@
     backdrop-filter: blur(40px);
 }
 .container::after{
-    content: ;
+    content: '';
 }
