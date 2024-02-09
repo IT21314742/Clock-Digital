@@ -52,4 +52,6 @@
     text-align: center;
     position: relative;
 }
-.clock span::after{}
+.clock span::after{
+    
+}
