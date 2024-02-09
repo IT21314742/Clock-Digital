@@ -30,4 +30,4 @@
     justify-content: center;
     backdrop-filter: blur(40px);
 }
-.container
+.container::
