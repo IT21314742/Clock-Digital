@@ -12,7 +12,8 @@
     color: #fff;
     position: relative;
 }
-.container{
+
+.container {
     width: 800px;
     height: 180px;
     position: absolute;
@@ -20,7 +21,8 @@
     left: 50%;
     transform: translate(-50%, -50px);
 }
-.clock{
+
+.clock {
     width: 100%;
     height: 100%;
     background: rgba(235, 0, 255, 0.11);
@@ -30,7 +32,8 @@
     justify-content: center;
     backdrop-filter: blur(40px);
 }
-.container::after{
+
+.container::after {
     content: '';
     width: 180px;
     height: 180px;
@@ -41,7 +44,8 @@
     bottom: -50px;
     z-index: -1;
 }
-.clock span{
+
+.clock span {
     font-size: 80px;
     width: 110px;
     display: inline-block;
