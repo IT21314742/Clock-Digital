@@ -32,5 +32,5 @@
 }
 .container::after{
     content: '';
-    width: ;
+    width: 180px;
 }
