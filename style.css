@@ -30,4 +30,6 @@
     justify-content: center;
     backdrop-filter: blur(40px);
 }
-.container::after{}
+.container::after{
+    
+}
