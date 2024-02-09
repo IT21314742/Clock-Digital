@@ -52,7 +52,8 @@
     text-align: center;
     position: relative;
 }
-.clock span::after{
+
+.clock span::after {
     font-size: 16px;
     position: absolute;
     bottom: -5px;
