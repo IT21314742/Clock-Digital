@@ -64,5 +64,5 @@
     content: 'HOURS';
 }
 #min::after{
-    content: 'MI';
+    content: 'MIN';
 }
