@@ -60,12 +60,15 @@
     left: 50px;
     transform: translate(-50%);
 }
-#hrs::after{
+
+#hrs::after {
     content: 'HOURS';
 }
-#min::after{
+
+#min::after {
     content: 'MIN';
 }
-#sec::after{
+
+#sec::after {
     content: 'SEC';
 }
